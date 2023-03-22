@@ -3,3 +3,21 @@
 body{
      font-family: 'Roboto', sans-serif;
      }
+ul{
+     list-style;
+     font-weight: bold;
+}
+
+a {
+     text-decoration: none;
+     color: inherit;
+}
+
+button{
+     padding: 10px 15px;
+     border-radius: 8px;
+     font-weight: bold;
+     border: 0;
+     background: #1d61dd;
+     color: white;
+}
