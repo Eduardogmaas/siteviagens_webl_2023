@@ -206,15 +206,15 @@ header nav p {
 
 .contato {
     height: 450px;
-    background-color: #00ff6a;
+    background-color: black;
 }
 
 
 .Contato h3{
     color: white;
     font-size: 24px;
-    padding: 30px;  
-    text-align: center;
+    padding: 42px;  
+    text-align: left;
 }
 
 
