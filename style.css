@@ -147,7 +147,7 @@ header nav p {
     font-weight: bold;
 }
 
-servicos {
+.servicos {
     padding 15px;
     text-align: center;
     justify-content: center;
@@ -168,7 +168,7 @@ servicos {
     margin: auto;
 }
 
-servicos .card{
+.servicos .card{
     width: 250px;
     display: flex;
     flex-direction: column;
@@ -202,4 +202,35 @@ servicos .card{
 .contatos {
     height: 250px;
     background: red;
+}
+
+.contato {
+    height: 450px;
+    background-color: #00ff6a;
+}
+
+
+.Contato h3{
+    color: white;
+    font-size: 24px;
+    padding: 30px;  
+    text-align: center;
+}
+
+
+.Contato .icones ul li {
+    color: white;
+    line-height: 2.8;
+}
+
+
+.Contato .icones ul li svg {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}
+
+
+.auth {
+    color: white;
 }
