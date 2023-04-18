@@ -24,6 +24,7 @@ button {
     color: white;
 }
 
+/* cabeçalho */
 header {
     background: no-repeat center/cover url("assets/tailandia.jpg");
     height: calc(100vh - 100px);
@@ -58,6 +59,7 @@ header nav p {
     font-size: 3rem;
 }
 
+/* parte dos pacotes */ 
 .pacotes .pacotes-title {
     width: 100%;
     text-align: center;
@@ -147,6 +149,7 @@ header nav p {
     font-weight: bold;
 }
 
+/* parte de serviços*/
 .servicos {
     padding 15px;
     text-align: center;
@@ -178,7 +181,7 @@ header nav p {
 }
 
 .servicos .card svg{
-    width:60 px;
+    width: 60px;
     height: 60px;
     margin: 50px;
 }
@@ -199,6 +202,7 @@ header nav p {
     text-align: center;
 }
 
+/* aqui começa o css do rodapé da página */
 .contatos {
     height: 250px;
     background: red;
